@@ -14,7 +14,7 @@ def setColor(bgColor, fgColor):
 
 blackColor = setColor(16, 16)
 
-lerpedData = pickle.load(open("Colors.pkl", "rb"))
+lerpedData = pickle.load(open("color.pkl", "rb"))
 lookupTable = np.load("LUT.npy")
 
 def convertImage(image):
