@@ -103,7 +103,7 @@ void displayFrames(const char* frames[][22], int numFrames, int height, atomic<i
             // Resetuj kolor tekstu do domyślnego.
             cout << "\033[90;40m";  // Kod ANSI do resetu koloru tekstu do domyślnego.
 
-            // Uśpij na czas opóźnienia ramki (zależne od platformy).
+            // Uśpij na czas opóźnienia ramki.
             #ifdef _WIN32
                 Sleep(FRAME_DELAY_MS);
             #else
