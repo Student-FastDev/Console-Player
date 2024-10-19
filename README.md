@@ -1,4 +1,6 @@
 ![Gigathon Icon](https://i.imgur.com/1mSIKP4.png)
+![Preview](https://i.imgur.com/xSJLaz0.gif)
+
 
 This README was written in two languages:
 - **English** [Console Player](#console-player-english)
