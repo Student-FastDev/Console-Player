@@ -18,7 +18,7 @@ This README was written in two languages:
 
 **Console Player** is an animation-based program created for the **Gigathon Contest**, which plays two well-known songs by showing ASCII animations in the terminal. The program uses multi-threading to handle user input and plays the songs in an endless loop with options to pause, switch songs, and exit the program. It includes two songs: **Luis Fonsi's Despacito** and **Ed Sheeran's Shape of You**, whose frames are stored in `.h` files inside the `Songs/` folder.
 
-The animation frames were generated using a script located at `Generator/videoToTextCopy.py`, but using this script is not necessary for running the program.For more detailed instructions on using the generator, [view Generator Instructions](GENERATOR.md).
+The animation frames were generated using a script located at `Generator/videoToTextCopy.py`, but using this script is not necessary for running the program. For more detailed instructions on using the generator, [view Generator Instructions](GENERATOR.md).
 
 ---
 
@@ -116,7 +116,7 @@ The song plays with ASCII-based frames, showing:
 
 **Konsolowy Odtwarzacz** to program oparty na animacjach ASCII, stworzony na konkurs **Gigathon**, który odtwarza dwie popularne piosenki, wyświetlając animacje w terminalu. Program wykorzystuje wielowątkowość do obsługi wejścia użytkownika i odtwarza piosenki w nieskończonej pętli z możliwością pauzowania, zmiany utworu oraz zakończenia programu. W zestawie znajdują się dwie piosenki: **Despacito** Luisa Fonsi oraz **Shape of You** Eda Sheerana, których klatki są zapisane w plikach `.h` w folderze `Songs/`.
 
-Klatki animacji zostały wygenerowane za pomocą skryptu `Generator/videoToTextCopy.py`, ale użycie tego skryptu nie jest konieczne do uruchomienia programu.
+Klatki animacji zostały wygenerowane za pomocą skryptu `Generator/videoToTextCopy.py`, ale użycie tego skryptu nie jest konieczne do uruchomienia programu. By dowiedziec sie jak korzysta z generatora, [zapoznaj sie z Instrukcja do Generatora](GENERATOR.md).
 
 ---
 
