@@ -198,5 +198,5 @@ Podczas odtwarzania piosenki w animacji ASCII wyświetlane są:
 4. **Generowanie Klatek**:
    - Klatki zostały stworzone przy użyciu `Generator/videoToTextCopy.py`.
 
-
+<br/>
 ![Preview](https://i.imgur.com/Xv6v8B8.gif)
