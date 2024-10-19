@@ -206,4 +206,4 @@ Podczas odtwarzania piosenki w animacji ASCII wyświetlane są:
 
 `Because of console limitations, there's a little flickering.` <br/>
 
-`Ze wzgledu na uwage ograniczen konsoli, obraz miga. `
+`Ze wzgledu na ograniczenia konsoli, obraz lekko miga. `
