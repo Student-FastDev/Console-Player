@@ -198,6 +198,8 @@ Podczas odtwarzania piosenki w animacji ASCII wyświetlane są:
 4. **Generowanie Klatek**:
    - Klatki zostały stworzone przy użyciu `Generator/videoToTextCopy.py`.
 
+---
+
 <br/>
 
 ![Preview](https://i.imgur.com/t260uzS.gif)
@@ -207,3 +209,5 @@ Podczas odtwarzania piosenki w animacji ASCII wyświetlane są:
 `Because of console limitations, there's a little flickering.` <br/>
 
 `Ze wzgledu na ograniczenia konsoli, obraz lekko miga. `
+
+---
