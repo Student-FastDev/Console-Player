@@ -1,6 +1,4 @@
 ![Gigathon Icon](https://i.imgur.com/1mSIKP4.png)
-![Preview](https://i.imgur.com/xSJLaz0.gif)
-
 
 This README was written in two languages:
 - **English** [Console Player](#console-player-english)
@@ -200,4 +198,6 @@ Podczas odtwarzania piosenki w animacji ASCII wyświetlane są:
 4. **Generowanie Klatek**:
    - Klatki zostały stworzone przy użyciu `Generator/videoToTextCopy.py`.
 
-![Preview](https://i.imgur.com/xSJLaz0.gif)
+<br/>
+
+![Preview](https://i.imgur.com/t260uzS.gif)
