@@ -203,5 +203,7 @@ Podczas odtwarzania piosenki w animacji ASCII wyświetlane są:
 ![Preview](https://i.imgur.com/t260uzS.gif)
 
 <br/>
+
 `Because of console limitations, there's a little flickering.` <br/>
+
 `Ze wzgledu na uwage ograniczen konsoli, obraz miga. `
