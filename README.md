@@ -18,7 +18,7 @@ This README was written in two languages:
 
 **Console Player** is an animation-based program created for the **Gigathon Contest**, which plays two well-known songs by showing ASCII animations in the terminal. The program uses multi-threading to handle user input and plays the songs in an endless loop with options to pause, switch songs, and exit the program. It includes two songs: **Luis Fonsi's Despacito** and **Ed Sheeran's Shape of You**, whose frames are stored in `.h` files inside the `Songs/` folder.
 
-The animation frames were generated using a script located at `Generator/videoToTextCopy.py`, but using this script is not necessary for running the program.
+The animation frames were generated using a script located at `Generator/videoToTextCopy.py`, but using this script is not necessary for running the program.For more detailed instructions on using the generator, [view Generator Instructions](GENERATOR.md).
 
 ---
 
