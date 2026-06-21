@@ -47,7 +47,7 @@ To compile and run this program, you need:
    g++ -o ConsolePlayer ConsolePlayer.cpp -lpthread
    ```
 
-   [You can also download already compiled version and skip this process.](https://github.com/Student-FastDev/Console-Player/releases)
+   [You can also download already compiled version and skip this process](https://github.com/Student-FastDev/Console-Player/releases).
 
 5. **Run the program**:
 
@@ -145,7 +145,7 @@ Aby skompilować i uruchomić program, potrzebujesz:
    g++ -o ConsolePlayer ConsolePlayer.cpp -lpthread
    ```
 
-   [Możesz także pobrać wcześniej skompilowany plik, by pominąć ten proces.](https://github.com/Student-FastDev/Console-Player/releases)
+   [Możesz także pobrać wcześniej skompilowany plik, by pominąć ten proces](https://github.com/Student-FastDev/Console-Player/releases).
 
 5. **Uruchom program**:
 
