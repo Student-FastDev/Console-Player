@@ -105,10 +105,10 @@ The song plays with ASCII-based frames, showing:
 # Konsolowy-Odtwarzacz (Polski)
 
 ## Spis treści
-1. [Opis Projektu](#opis-projektu)
-2. [Konfiguracja i Kompilacja](#konfiguracja-i-kompilacja)
-3. [Sterowanie i Rozgrywka](#sterowanie-i-rozgrywka)
-4. [Kluczowe Funkcje](#kluczowe-funkcje)
+1. [Opis Projektu](#opis-projektu).
+2. [Konfiguracja i Kompilacja](#konfiguracja-i-kompilacja).
+3. [Sterowanie i Rozgrywka](#sterowanie-i-rozgrywka).
+4. [Kluczowe Funkcje](#kluczowe-funkcje).
 
 ---
 
