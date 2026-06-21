@@ -1,8 +1,8 @@
 ![Gigathon Icon](https://i.imgur.com/1mSIKP4.png)
 
 This README was written in two languages:
-- **English** [Console Player](#console-player-english)
-- **Polski** [Konsolowy Odtwarzacz](#konsolowy-odtwarzacz-polski)
+- **English** [Console-Player](#console-player-english).
+- **Polski** [Konsolowy-Odtwarzacz](#konsolowy-odtwarzacz-polski).
 
 # Console-Player (English)
 
