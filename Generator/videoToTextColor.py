@@ -9,7 +9,6 @@ heightSize = int(widthSize / (2 * aspectRatio))
 charSet = " ,(S#g@@g#S(, "
 
 def setColor(bgColor, fgColor):
-    # Ustawia kolor tla i koloru tekstu na podstawie podanych wartości
     return "\u001b[48;5;%s;38;5;%sm" % (bgColor, fgColor)
 
 blackColor = setColor(16, 16)
@@ -18,7 +17,6 @@ lerpedData = pickle.load(open("color.pkl", "rb"))
 lookupTable = np.load("LUT.npy")
 
 def convertImage(image):
-    # Konwertuje obrazek na dane ASCII z kolorami
     frameData = []
     
     for row in image:
@@ -39,7 +37,6 @@ def convertImage(image):
     return frameData
 
 if len(sys.argv) == 2:
-    # Otwiera plik wideo i przetwarza klatki na dane ASCII
     videoCapture = cv2.VideoCapture(sys.argv[1])
     frameCollection = []
     frameCounter = 0
@@ -58,8 +55,6 @@ if len(sys.argv) == 2:
         frameCounter += 1
     
     videoCapture.release()
-
-    # Zapisuje przetworzone klatki do pliku nagłówkowego
     with open("data.h", "w") as file:
         file.write("#ifndef DATA_H\n")
         file.write("#define DATA_H\n\n")
