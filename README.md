@@ -145,7 +145,7 @@ Aby skompilować i uruchomić program, potrzebujesz:
    g++ -o ConsolePlayer ConsolePlayer.cpp -lpthread
    ```
 
-   [Mozesz takze pobrac wczesniej skompilowany plik, by pominac ten proces.](https://github.com/Student-FastDev/Console-Player/releases)
+   [Możesz także pobrać wcześniej skompilowany plik, by pominąć ten proces.](https://github.com/Student-FastDev/Console-Player/releases)
 
 5. **Uruchom program**:
 
