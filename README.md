@@ -7,10 +7,10 @@ This README was written in two languages:
 # Console-Player (English)
 
 ## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Setup and Compilation](#setup-and-compilation)
-3. [Controls and Gameplay](#controls-and-gameplay)
-4. [Key Features](#key-features)
+1. [Project Overview](#project-overview).
+2. [Setup and Compilation](#setup-and-compilation).
+3. [Controls and Gameplay](#controls-and-gameplay).
+4. [Key Features](#key-features).
 
 ---
 
