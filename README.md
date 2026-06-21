@@ -4,7 +4,7 @@ This README was written in two languages:
 - **English** [Console Player](#console-player-english)
 - **Polski** [Konsolowy Odtwarzacz](#konsolowy-odtwarzacz-polski)
 
-# Console Player (English)
+# Console-Player (English)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -102,7 +102,7 @@ The song plays with ASCII-based frames, showing:
 
 ---
 
-# Konsolowy Odtwarzacz (Polski)
+# Konsolowy-Odtwarzacz (Polski)
 
 ## Spis treści
 1. [Opis Projektu](#opis-projektu)
